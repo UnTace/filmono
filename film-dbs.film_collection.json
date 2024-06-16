@@ -1,0 +1,694 @@
+[{
+  "_id": "665617f365e9af7729847fbf",
+  "isim": "A Quiet Place",
+  "tur": [
+    "gerilim",
+    "korku",
+    "bilim kurgu"
+  ],
+  "imdb-rate": 7.5,
+  "yas-siniri": 13,
+  "yil": 2018,
+  "link": "https://www.imdb.com/title/tt6644200/"
+},
+{
+  "_id": "665617f365e9af7729847fc0",
+  "isim": "Anchorman",
+  "tur": [
+    "komedi"
+  ],
+  "imdb-rate": 7.2,
+  "yas-siniri": 13,
+  "yil": 2004,
+  "link": "https://www.imdb.com/title/tt0357413/"
+},
+{
+  "_id": "665617f365e9af7729847fc1",
+  "isim": "Blackfish",
+  "tur": [
+    "belgesel"
+  ],
+  "imdb-rate": 8.1,
+  "yas-siniri": 13,
+  "yil": 2013,
+  "link": "https://www.imdb.com/title/tt2545118/"
+},
+{
+  "_id": "665617f365e9af7729847fc2",
+  "isim": "Bridesmaids",
+  "tur": [
+    "komedi",
+    "romantik"
+  ],
+  "imdb-rate": 6.8,
+  "yas-siniri": 17,
+  "yil": 2011,
+  "link": "https://www.imdb.com/title/tt1478338/"
+},
+{
+  "_id": "665617f365e9af7729847fc3",
+  "isim": "Dumb and Dumber",
+  "tur": [
+    "komedi"
+  ],
+  "imdb-rate": 7.3,
+  "yas-siniri": 13,
+  "yil": 1994,
+  "link": "https://www.imdb.com/title/tt0109686/"
+},
+{
+  "_id": "665617f365e9af7729847fc4",
+  "isim": "Eşkıya",
+  "tur": [
+    "yerli",
+    "komedi",
+    "aksiyon",
+    "dram"
+  ],
+  "imdb-rate": 8,
+  "yas-siniri": 17,
+  "yil": 1996,
+  "link": "https://www.imdb.com/title/tt0116231/"
+},
+{
+  "_id": "665617f365e9af7729847fc5",
+  "isim": "Ex Machina",
+  "tur": [
+    "bilim kurgu",
+    "dram",
+    "gerilim"
+  ],
+  "imdb-rate": 7.7,
+  "yas-siniri": 17,
+  "yil": 2014,
+  "link": "https://www.imdb.com/title/tt0470752/"
+},
+{
+  "_id": "665617f365e9af7729847fc6",
+  "isim": "Fargo",
+  "tur": [
+    "polisiye",
+    "komedi",
+    "drama"
+  ],
+  "imdb-rate": 8.1,
+  "yas-siniri": 17,
+  "yil": 1996,
+  "link": "https://www.imdb.com/title/tt0116282/"
+},
+{
+  "_id": "665617f365e9af7729847fc7",
+  "isim": "Guardians of the Galaxy",
+  "tur": [
+    "bilim kurgu",
+    "aksiyon",
+    "macera"
+  ],
+  "imdb-rate": 8,
+  "yas-siniri": 13,
+  "yil": 2014,
+  "link": "https://www.imdb.com/title/tt2015381/"
+},
+{
+  "_id": "665617f365e9af7729847fc8",
+  "isim": "Harry Potter and the Sorcerer's Stone",
+  "tur": [
+    "fantastik",
+    "macera",
+    "fantezi"
+  ],
+  "imdb-rate": 7.6,
+  "yas-siniri": 13,
+  "yil": 2001,
+  "link": "https://www.imdb.com/title/tt0241527/"
+},
+{
+  "_id": "665617f365e9af7729847fc9",
+  "isim": "Heat",
+  "tur": [
+    "polisiye",
+    "aksiyon",
+    "drama"
+  ],
+  "imdb-rate": 8.2,
+  "yas-siniri": 17,
+  "yil": 1995,
+  "link": "https://www.imdb.com/title/tt0113277/"
+},
+{
+  "_id": "665617f365e9af7729847fca",
+  "isim": "Hereditary",
+  "tur": [
+    "gerilim",
+    "korku",
+    "dram"
+  ],
+  "imdb-rate": 7.3,
+  "yas-siniri": 18,
+  "yil": 2018,
+  "link": "https://www.imdb.com/title/tt7784604/"
+},
+{
+  "_id": "665617f365e9af7729847fcb",
+  "isim": "Inception",
+  "tur": [
+    "bilim kurgu",
+    "aksiyon",
+    "macera"
+  ],
+  "imdb-rate": 8.8,
+  "yas-siniri": 13,
+  "yil": 2010,
+  "link": "https://www.imdb.com/title/tt1375666/"
+},
+{
+  "_id": "665617f365e9af7729847fcc",
+  "isim": "Interstellar",
+  "tur": [
+    "bilim kurgu",
+    "drama"
+  ],
+  "imdb-rate": 8.6,
+  "yas-siniri": 13,
+  "yil": 2014,
+  "link": "https://www.imdb.com/title/tt0816692/"
+},
+{
+  "_id": "665617f365e9af7729847fcd",
+  "isim": "It",
+  "tur": [
+    "korku",
+    "drama",
+    "gerilim"
+  ],
+  "imdb-rate": 7.3,
+  "yas-siniri": 17,
+  "yil": 2017,
+  "link": "https://www.imdb.com/title/tt1396484/"
+},
+{
+  "_id": "665617f365e9af7729847fce",
+  "isim": "March of the Penguins",
+  "tur": [
+    "belgesel"
+  ],
+  "imdb-rate": 7.5,
+  "yas-siniri": 0,
+  "yil": 2005,
+  "link": "https://www.imdb.com/title/tt0428803/"
+},
+{
+  "_id": "665617f365e9af7729847fcf",
+  "isim": "Memento",
+  "tur": [
+    "polisiye",
+    "gerilim"
+  ],
+  "imdb-rate": 8.4,
+  "yas-siniri": 17,
+  "yil": 2000,
+  "link": "https://www.imdb.com/title/tt0209144/"
+},
+{
+  "_id": "665617f365e9af7729847fd0",
+  "isim": "Pan's Labyrinth",
+  "tur": [
+    "fantastik",
+    "dram",
+    "savaş"
+  ],
+  "imdb-rate": 8.2,
+  "yas-siniri": 17,
+  "yil": 2006,
+  "link": "https://www.imdb.com/title/tt0457430/"
+},
+{
+  "_id": "665617f365e9af7729847fd1",
+  "isim": "Planet Earth II",
+  "tur": [
+    "belgesel"
+  ],
+  "imdb-rate": 9.5,
+  "yas-siniri": 0,
+  "yil": 2016,
+  "link": "https://www.imdb.com/title/tt5491994/"
+},
+{
+  "_id": "665617f365e9af7729847fd5",
+  "isim": "Prisoners",
+  "tur": [
+    "gerilim",
+    "suç",
+    "drama"
+  ],
+  "imdb-rate": 8.1,
+  "yas-siniri": 18,
+  "yil": 2013,
+  "link": "https://www.imdb.com/title/tt1392214/"
+},
+{
+  "_id": "665617f365e9af7729847fd6",
+  "isim": "RBG",
+  "tur": [
+    "belgesel",
+    "biyografi"
+  ],
+  "imdb-rate": 7.5,
+  "yas-siniri": 0,
+  "yil": 2018,
+  "link": "https://www.imdb.com/title/tt7689964/"
+},
+{
+  "_id": "665617f365e9af7729847fd7",
+  "isim": "Se7en",
+  "tur": [
+    "drama",
+    "gizem",
+    "gerilim"
+  ],
+  "imdb-rate": 8.6,
+  "yas-siniri": 18,
+  "yil": 1995,
+  "link": "https://www.imdb.com/title/tt0114369/"
+},
+{
+  "_id": "665617f365e9af7729847fd8",
+  "isim": "Sinister",
+  "tur": [
+    "korku",
+    "gerilim",
+    "gizem"
+  ],
+  "imdb-rate": 6.8,
+  "yas-siniri": 17,
+  "yil": 2012,
+  "link": "https://www.imdb.com/title/tt1922777/"
+},
+{
+  "_id": "665617f365e9af7729847fd9",
+  "isim": "Stardust",
+  "tur": [
+    "fantastik",
+    "macera",
+    "romantik"
+  ],
+  "imdb-rate": 7.6,
+  "yas-siniri": 13,
+  "yil": 2007,
+  "link": "https://www.imdb.com/title/tt0486655/"
+},
+{
+  "_id": "665617f365e9af7729847fda",
+  "isim": "Superbad",
+  "tur": [
+    "komedi"
+  ],
+  "imdb-rate": 7.6,
+  "yas-siniri": 17,
+  "yil": 2007,
+  "link": "https://www.imdb.com/title/tt0829482/"
+},
+{
+  "_id": "665617f365e9af7729847fdb",
+  "isim": "The Act of Killing",
+  "tur": [
+    "belgesel",
+    "biyografi",
+    "suç"
+  ],
+  "imdb-rate": 8.2,
+  "yas-siniri": 18,
+  "yil": 2012,
+  "link": "https://www.imdb.com/title/tt2375605/"
+},
+{
+  "_id": "665617f365e9af7729847fdc",
+  "isim": "The Big Lebowski",
+  "tur": [
+    "komedi",
+    "suç"
+  ],
+  "imdb-rate": 8.1,
+  "yas-siniri": 18,
+  "yil": 1998,
+  "link": "https://www.imdb.com/title/tt0118715/"
+},
+{
+  "_id": "665617f365e9af7729847fdd",
+  "isim": "The Conjuring",
+  "tur": [
+    "korku",
+    "gerilim",
+    "gizem"
+  ],
+  "imdb-rate": 7.5,
+  "yas-siniri": 17,
+  "yil": 2013,
+  "link": "https://www.imdb.com/title/tt1457767/"
+},
+{
+  "_id": "665617f365e9af7729847fde",
+  "isim": "The Departed",
+  "tur": [
+    "polisiye",
+    "gerilim"
+  ],
+  "imdb-rate": 8.5,
+  "yas-siniri": 18,
+  "yil": 2006,
+  "link": "https://www.imdb.com/title/tt0407887/"
+},
+{
+  "_id": "665617f365e9af7729847fdf",
+  "isim": "The Grand Budapest Hotel",
+  "tur": [
+    "komedi",
+    "drama",
+    "suç"
+  ],
+  "imdb-rate": 8.1,
+  "yas-siniri": 15,
+  "yil": 2014,
+  "link": "https://www.imdb.com/title/tt2278388/"
+},
+{
+  "_id": "665617f365e9af7729847fe0",
+  "isim": "The Martian",
+  "tur": [
+    "bilim kurgu",
+    "macera",
+    "drama"
+  ],
+  "imdb-rate": 8,
+  "yas-siniri": 13,
+  "yil": 2015,
+  "link": "https://www.imdb.com/title/tt3659388/"
+},
+{
+  "_id": "665617f365e9af7729847fe1",
+  "isim": "The Notebook",
+  "tur": [
+    "drama",
+    "romantik"
+  ],
+  "imdb-rate": 7.8,
+  "yas-siniri": 13,
+  "yil": 2004,
+  "link": "https://www.imdb.com/title/tt0332280/"
+},
+{
+  "_id": "665617f365e9af7729847fe2",
+  "isim": "The Ring",
+  "tur": [
+    "korku",
+    "gerilim",
+    "gizem"
+  ],
+  "imdb-rate": 7.1,
+  "yas-siniri": 17,
+  "yil": 2002,
+  "link": "https://www.imdb.com/title/tt0298130/"
+},
+{
+  "_id": "665617f365e9af7729847fe3",
+  "isim": "The Silence of the Lambs",
+  "tur": [
+    "suç",
+    "drama",
+    "gerilim"
+  ],
+  "imdb-rate": 8.6,
+  "yas-siniri": 18,
+  "yil": 1991,
+  "link": "https://www.imdb.com/title/tt0102926/"
+},
+{
+  "_id": "665617f365e9af7729847fe4",
+  "isim": "Zodiac",
+  "tur": [
+    "gerilim",
+    "suç",
+    "gizem"
+  ],
+  "imdb-rate": 7.7,
+  "yas-siniri": 18,
+  "yil": 2007,
+  "link": "https://www.imdb.com/title/tt0443706/"
+},
+{
+  "_id": "665617f365e9af7795847fe5",
+  "isim": "Airplane!",
+  "tur": [
+    "komedi"
+  ],
+  "imdb-rate": 7.7,
+  "yas-siniri": 13,
+  "yil": 1980,
+  "link": "https://www.imdb.com/title/tt0080339/"
+},
+{
+  "_id": "665617f365e9af7798847fe6",
+  "isim": "Arrival",
+  "tur": [
+    "bilim kurgu",
+    "drama",
+    "gizem"
+  ],
+  "imdb-rate": 7.9,
+  "yas-siniri": 13,
+  "yil": 2016,
+  "link": "https://www.imdb.com/title/tt2543164/"
+},
+{
+  "_id": "665617f365e9af7723447fe7",
+  "isim": "Babam ve Oğlum",
+  "tur": [
+    "drama"
+  ],
+  "imdb-rate": 8.1,
+  "yas-siniri": 13,
+  "yil": 2005,
+  "link": "https://www.imdb.com/title/tt0476735/"
+},
+{
+  "_id": "665617f365e9af7679847fe8",
+  "isim": "Blade Runner 2049",
+  "tur": [
+    "bilim kurgu",
+    "drama",
+    "gerilim"
+  ],
+  "imdb-rate": 8,
+  "yas-siniri": 17,
+  "yil": 2017,
+  "link": "https://www.imdb.com/title/tt1856101/"
+},
+{
+  "_id": "665617f365e9af7721447fe9",
+  "isim": "Çöpçüler Kralı",
+  "tur": [
+    "drama"
+  ],
+  "imdb-rate": 8,
+  "yas-siniri": 13,
+  "yil": 1977,
+  "link": "https://www.imdb.com/title/tt0298130/"
+},
+{
+  "_id": "665617f365e9af7722347fea",
+  "isim": "Eyyvah Eyvah",
+  "tur": [
+    "komedi"
+  ],
+  "imdb-rate": 7,
+  "yas-siniri": 13,
+  "yil": 2010,
+  "link": "https://www.imdb.com/title/tt1616419/"
+},
+{
+  "_id": "665617f365e9af7726647feb",
+  "isim": "Fantastic Beasts and Where to Find Them",
+  "tur": [
+    "macera",
+    "fantastik"
+  ],
+  "imdb-rate": 7.3,
+  "yas-siniri": 13,
+  "yil": 2016,
+  "link": "https://www.imdb.com/title/tt3183660/"
+},
+{
+  "_id": "665617f365e9af7739847fec",
+  "isim": "Get Out",
+  "tur": [
+    "korku",
+    "gerilim"
+  ],
+  "imdb-rate": 7.7,
+  "yas-siniri": 17,
+  "yil": 2017,
+  "link": "https://www.imdb.com/title/tt5052448/"
+},
+{
+  "_id": "665617f365e9af7729847fed",
+  "isim": "Gone Girl",
+  "tur": [
+    "drama",
+    "gerilim",
+    "mystery"
+  ],
+  "imdb-rate": 8.1,
+  "yas-siniri": 17,
+  "yil": 2014,
+  "link": "https://www.imdb.com/title/tt2267998/"
+},
+{
+  "_id": "665617f365e9af7129847fee",
+  "isim": "Gravity",
+  "tur": [
+    "bilim kurgu",
+    "drama",
+    "gerilim"
+  ],
+  "imdb-rate": 7.7,
+  "yas-siniri": 13,
+  "yil": 2013,
+  "link": "https://www.imdb.com/title/tt1454468/"
+},
+{
+  "_id": "665617f365e9af1729847fef",
+  "isim": "Harry Potter and the Goblet of Fire",
+  "tur": [
+    "fantastik",
+    "macera",
+    "fantezi"
+  ],
+  "imdb-rate": 7.7,
+  "yas-siniri": 13,
+  "yil": 2005,
+  "link": "https://www.imdb.com/title/tt0330373/"
+},
+{
+  "_id": "665617f365e9af7729147ff0",
+  "isim": "Harry Potter and the Prisoner of Azkaban",
+  "tur": [
+    "fantastik",
+    "macera",
+    "fantezi"
+  ],
+  "imdb-rate": 7.9,
+  "yas-siniri": 13,
+  "yil": 2004,
+  "link": "https://www.imdb.com/title/tt0304141/"
+},
+{
+  "_id": "665617f365e9af7729647ff1",
+  "isim": "Hot Fuzz",
+  "tur": [
+    "aksiyon",
+    "komedi",
+    "suç"
+  ],
+  "imdb-rate": 7.8,
+  "yas-siniri": 17,
+  "yil": 2007,
+  "link": "https://www.imdb.com/title/tt0425112/"
+},
+{
+  "_id": "665617f365e9af7749847ff2",
+  "isim": "L.A. Confidential",
+  "tur": [
+    "suç",
+    "drama",
+    "gizem"
+  ],
+  "imdb-rate": 8.2,
+  "yas-siniri": 18,
+  "yil": 1997,
+  "link": "https://www.imdb.com/title/tt0119488/"
+},
+{
+  "_id": "665617f365e9af7729897ff3",
+  "isim": "Neredesin Firuze",
+  "tur": [
+    "komedi",
+    "drama"
+  ],
+  "imdb-rate": 8.2,
+  "yas-siniri": 13,
+  "yil": 2004,
+  "link": "https://www.imdb.com/title/tt0425112/"
+},
+{
+  "_id": "665617f365e9af7729845ff4",
+  "isim": "The Act of Killing",
+  "tur": [
+    "belgesel",
+    "biyografi",
+    "suç"
+  ],
+  "imdb-rate": 8.2,
+  "yas-siniri": 18,
+  "yil": 2012,
+  "link": "https://www.imdb.com/title/tt2375605/"
+},
+{
+  "_id": "665617f365e9af7729843ff5",
+  "isim": "The Babadook",
+  "tur": [
+    "drama",
+    "korku",
+    "gerilim"
+  ],
+  "imdb-rate": 6.8,
+  "yas-siniri": 18,
+  "yil": 2014,
+  "link": "https://www.imdb.com/title/tt2321549/"
+},
+{
+  "_id": "665617f365e9af7725847ff6",
+  "isim": "The Hangover",
+  "tur": [
+    "komedi"
+  ],
+  "imdb-rate": 7.7,
+  "yas-siniri": 18,
+  "yil": 2009,
+  "link": "https://www.imdb.com/title/tt1119646/"
+},
+{
+  "_id": "665617f365e9af7729647ff7",
+  "isim": "The Matrix",
+  "tur": [
+    "aksiyon",
+    "bilim kurgu"
+  ],
+  "imdb-rate": 8.7,
+  "yas-siniri": 15,
+  "yil": 1999,
+  "link": "https://www.imdb.com/title/tt0133093/"
+},
+{
+  "_id": "665617f365e9af7729547ff8",
+  "isim": "The Witch",
+  "tur": [
+    "drama",
+    "korku"
+  ],
+  "imdb-rate": 7,
+  "yas-siniri": 15,
+  "yil": 2015,
+  "link": "https://www.imdb.com/title/tt4263482/"
+},
+{
+  "_id": "665617f365e9af7729846ff9",
+  "isim": "Us",
+  "tur": [
+    "korku",
+    "gizem"
+  ],
+  "imdb-rate": 6.8,
+  "yas-siniri": 15,
+  "yil": 2019,
+  "link": "https://www.imdb.com/title/tt6857112/"
+}]

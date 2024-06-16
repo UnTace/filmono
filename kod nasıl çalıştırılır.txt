@@ -1,0 +1,17 @@
+
+
+Öncelikle node.js kurunuz.
+Daha sonra MongoDB kurunuz.
+
+
+MongoDB'de database'e zip'de olan film-dbs.film_collection.json dosyasını import ediniz.
+
+CMD açılıp npm install yazıp gereklilikleri kurunuz.
+Sonra aynı şekilde CMD'ye node server.js yazılıp sunucu başlatılmalı. ( Mail üzerinden yolladığımız dosyayı klasöre çıkartıp üst kısımda bulunan path silinip oraya cmd yazılmalı.)
+Daha sonra tarayıcı üzerinden 127.0.0.1:3000 yazılıp siteye giriş yapılır.
+
+
+
+Önemli NOT !!: 
+
+Sitemizin sağ üst kısmında bulunan "Film Ara" kısmını, film aramak için değil de kategoriden bağımsız bir şekilde anasayfada filmler önermesini sağlamak için yaptık.

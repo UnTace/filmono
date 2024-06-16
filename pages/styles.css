@@ -1,0 +1,174 @@
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img {
+    width: 50px;
+}
+
+
+
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+.menu li a {
+    color: #fff;
+    text-decoration: none; 
+    font-size: 18px;
+    transition: color 0.3s; 
+}
+
+.menu li a:hover {
+    color: #e10707; 
+    cursor: pointer;
+}
+
+.search-form {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.search-form input[type="text"] {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+    width: 400px;
+}
+
+.search-form button {
+    padding: 10px ;
+    height: 50;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f00;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.search-form button:hover {
+    background-color: #000; 
+}
+
+.film-container {
+    margin: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.film-card {
+    width: calc(33.33% - 20px);
+    margin-bottom: 20px; 
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.film-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: opacity 0.3s;
+}
+
+.film-card a{
+    text-decoration: none;
+}
+
+.film-card:hover img {
+    opacity: 0.7; 
+}
+
+.film-info {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+}
+
+.film-info h2 {
+    margin: 0;
+    color: #fff;
+    font-size: 18px;
+}
+
+.rating {
+    color: #ffd700;
+}
+
+.rating .star {
+    margin-right: 5px;
+}
+
+.rating .imdb-rating {
+    color: #ffd700;
+}
+
+#filter {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50%; 
+    transform: translateX(-50%); 
+}
+
+#filter label{
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#filter button{
+    margin: 20px;
+}
+
+
+
+.checkboxes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Checkbox'ların görünümünü özelleştirin */
+.checkboxes input[type="checkbox"] {
+    width: 20px; /* Kutu genişliği */
+    height: 20px; /* Kutu yüksekliği */
+    border: 2px solid #333; /* Kenarlık rengi */
+    border-radius: 4px; /* Kenar yuvarlaklığı */
+    background-color: transparent; /* Arka plan rengi */
+    cursor: pointer; /* İmleç */
+    margin-right: 5px; /* Sağdan boşluk */
+}
+
+/* Seçili (checked) durumdaki checkbox'ların stilini ayarlayın */
+.checkboxes input[type="checkbox"]:checked {
+    background-color: #333; /* Arka plan rengi */
+}
+
+/* Checkbox'un içinde işaretin stilini ayarlayın */
+.checkboxes input[type="checkbox"]:checked::before {
+    content: '\2713'; /* İşaret (✓) */
+    font-size: 14px; /* İşaretin boyutu */
+    color: white; /* İşaret rengi */
+    display: block;
+    text-align: center;
+    line-height: 20px; /* Kutu yüksekliği ile aynı hizada olması için */
+}

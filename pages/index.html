@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmono</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Montserrat', sans-serif;
+            background-image: url('src/background.jpg'); 
+            background-size: cover;
+            color: white; 
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <a href="/" class="logo">
+            <img src="src/logo.png" alt="Logo">
+        </a>
+        <ul class="menu">
+            <li><a href="/">ANA SAYFA</a></li>
+            <li><a  onclick="handleGenreClick('korku')">KORKU</a></li>
+            <li><a  onclick="handleGenreClick('gerilim')">GERİLİM</a></li>
+            <li><a  onclick="handleGenreClick('aksiyon')">AKSİYON</a></li>
+            <li><a  onclick="handleGenreClick('romantik')">ROMANTİK</a></li>
+            <li><a  onclick="handleGenreClick('bilim kurgu')">BİLİM-KURGU</a></li>
+       </ul>
+        <form class="search-form">
+            <input type="text" placeholder="Film Ara">
+            <button type="submit">Ara</button>
+        </form>
+    </nav>
+
+
+    <form class="search-form" id = "filter">
+        <!-- Checkbox'ları içeren bir div -->
+        <div class="checkboxes">
+            <label><input type="checkbox" name="genre" value="korku">KORKU</label>
+            <label><input type="checkbox" name="genre" value="gerilim">GERİLİM</label>
+            <label><input type="checkbox" name="genre" value="aksiyon">AKSİYON</label>
+            <label><input type="checkbox" name="genre" value="romantik">ROMANTİK</label>
+            <label><input type="checkbox" name="genre" value="bilim kurgu">BİLİM-KURGU</label>
+        </div>
+        <!-- Arama butonu -->
+        <button type="button" onclick="filterFilms()">ARA</button>
+    </form>
+
+    <script>
+        async function filterFilms() {
+            console.log(1);
+    try {
+        
+        const genres = Array.from(document.querySelectorAll('input[name="genre"]:checked')).map(input => input.value);
+        console.log(2);
+        const response = await fetch('/filteredFilms', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ genres })
+        });
+        console.log(3);
+
+        if (!response.ok) {
+            throw new Error('İstek başarısız: ' + response.status);
+        }
+
+        const htmlContent = await response.text();
+        document.querySelector('.film-container').innerHTML = htmlContent;
+    } catch (error) {
+        console.error('Hata:', error);
+    }
+}
+    </script>
+
+<script>
+    async function handleGenreClick(genre) {
+try {
+    const response = await fetch('/filteredFilms', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ genres: [genre] })
+    });
+
+    if (!response.ok) {
+        throw new Error('İstek başarısız: ' + response.status);
+    }
+
+    const htmlContent = await response.text();
+    document.querySelector('.film-container').innerHTML = htmlContent;
+} catch (error) {
+    console.error('Hata:', error);
+}
+}
+</script>
+
+    
+
+
+    <div class="film-container">
+   </div>
+   
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                const url = '/films';
+                const response = await fetch(url);   
+                if (!response.ok) {
+                    throw new Error('İstek başarısız: ' + response.status);
+                }  
+                const htmlContent = await response.text();
+                document.querySelector('.film-container').innerHTML = htmlContent;
+            } catch (error) {
+                console.error('Hata:', error);
+            }
+        });
+    </script>
+    
+</body>
+</html>
